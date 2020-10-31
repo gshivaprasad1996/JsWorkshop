@@ -1,0 +1,48 @@
+#Core Javascript 
+
+1. let and cost                  
+2. Scope                        
+3. Data Types                   
+4. Type Conversion              
+5. Operators and statements     
+6. Reference Data Types       
+7. Destructering objects      
+8. Maps & Sets      
+9. Functions        
+10. Default parameters      
+11. Spread Operator and rest parameters        
+12. Callback functions  
+13. Javascript classes (oops)
+14. Prototype Inheritance   
+15. Arrow Functions         
+16. Call, Apply, Bind   
+17. Closures                    
+18. Function Chaining
+19. Map, reduce filter     
+20. curry()()() function  
+21. Modules               
+22. Async js                
+23. Promises            
+24. Event Bubbling      
+25. Proxy & Reflection  
+26. Regex
+27. Recursion           
+30. Symbols
+31. Web workers         
+32. Generators          
+33. This keyword        
+34. Strings and string methods
+35. Arrays and array methods
+36. Javascript Hoisting 
+37. Objects
+38. Numbers 
+39. Dates 
+40. DOM 
+41. API Calling 
+42. JSON 
+43. Web Storage
+
+
+Target of this week:
+
+1. To revise and perfect in all topics except DOM

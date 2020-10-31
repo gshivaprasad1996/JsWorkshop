@@ -1,0 +1,25 @@
+{
+    "users":[
+        {
+            "name":"Shiva",
+            "age":23,
+            "job":"developer",
+            "employee":true,
+            "married": null,
+            "personal":{
+                "gender":"male",
+                "ownHouse":true
+            }
+        },
+        {
+            "name":"Prasad",
+            "age":23,
+            "job":"developer"
+        },
+        {
+            "name":"South",
+            "age":23,
+            "job":"developer"
+        }
+    ]
+}

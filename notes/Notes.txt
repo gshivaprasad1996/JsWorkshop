@@ -1,0 +1,83 @@
+                1. let & const 
+
+1. In javascript both let and const are used to
+define variables.
+2. Both supports block scope.
+3. and const is used to define constant variable which means you cant 
+re-assign variable once declared as const.
+4. Using let you can re-assign a value but you can't re-define the
+variable with the same name using let and event const.
+
+                2. scope 
+
+1. Both let and const have block scope.
+2. Variables declared globally have global scope and defined inside the block have 
+block({ }) scope.
+
+                3. Data types
+Primitive Data types:
+        1. String
+        2. Null
+        3. Object
+        4. Undefined
+        5. Boolean
+        6. Symbols
+        7. Number
+
+Reference Data types
+        1. Arrays
+        2. Objects
+        3. Functions
+        4. Dates
+        5. Regex
+        6. Maps
+        7. Sets etc..
+
+                4. Type Conversions
+1.String Conversions -
+2.Boolean Conversions
+3.Numeric Conversions
+
+                5. Operators
+
+1. Arithmetic Oeprators
+2. Assignment Oeprators
+3. Logical Oeprators
+4. Type Oeprators
+5. bitwise Oeprators
+
+                6.Data Structures
+1.Set - Set is a special collection of values where each value occurs only once.
+2.Map - Map is special collection of key value pairs like objects. The main difference 
+is map can have any type of key
+3.WeakSet - Just like a set it also holds the collection of objects. where each object
+can occurs only once. And it does not holds the Primitive values 
+
+
+                7.Closures
+Closures is a mechanism where an inner function can hava the access to 
+the outer function variables and functions even if it is returned.
+
+                8. Spread Operator
+Spread operator(...) is a special operator that es6 introduced.
+where we can use it for
+1.passing array of arguments to the function without apply and null.
+2.Use can use it for rest parameters
+3.You can copy arrays using spread operator 
+4.You can concat arrays 
+5.You can arguments into an array 
+6.You can also use it with math functions 
+
+                9.Recursion
+Recursion is a machanism that calls a function itselft until it doesn't
+A recursive function always has a condition that stops
+the function from calling itself.
+
+                10. Currying
+Currying is a technique of evaluating function with multiple arguments,
+into sequence of functions with single argument
+
+        11.Web worker
+A web worker is a javascript code that runs in the background with out 
+affecting the page performance. You can do whatever you want while the 
+web worker is running in the background.
